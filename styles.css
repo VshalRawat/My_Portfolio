@@ -3,7 +3,7 @@
 *{
   margin:0;
   padding:0;
-  /* box-sizing:border-box; */
+  box-sizing:border-box;
   font-family: "Be Vietnam Pro", sans-serif;
   scroll-behavior: smooth;
 }
@@ -19,7 +19,7 @@
 
 .container {
   max-width: 1200px;
-  width: 90%;
+  width: 100%;
   padding: 0 1rem;
   margin: auto;
 }
